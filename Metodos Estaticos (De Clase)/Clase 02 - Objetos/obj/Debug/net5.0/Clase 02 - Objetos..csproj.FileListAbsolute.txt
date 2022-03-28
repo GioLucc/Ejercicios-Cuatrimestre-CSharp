@@ -1,0 +1,16 @@
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\Clase 02 - Objetos..exe
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\Clase 02 - Objetos..deps.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\Clase 02 - Objetos..runtimeconfig.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\Clase 02 - Objetos..runtimeconfig.dev.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\Clase 02 - Objetos..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\ref\Clase 02 - Objetos..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\bin\Debug\net5.0\Clase 02 - Objetos..pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..AssemblyInfo.cs
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\ref\Clase 02 - Objetos..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..genruntimeconfig.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Clase 02 - Objetos\obj\Debug\net5.0\Clase 02 - Objetos..csproj.AssemblyReference.cache

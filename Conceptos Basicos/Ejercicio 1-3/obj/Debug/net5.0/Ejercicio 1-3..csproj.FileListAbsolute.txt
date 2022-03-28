@@ -1,0 +1,16 @@
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\Ejercicio 1-3..exe
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\Ejercicio 1-3..deps.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\Ejercicio 1-3..runtimeconfig.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\Ejercicio 1-3..runtimeconfig.dev.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\Ejercicio 1-3..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\ref\Ejercicio 1-3..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\bin\Debug\net5.0\Ejercicio 1-3..pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..AssemblyInfo.cs
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\ref\Ejercicio 1-3..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 1-3\obj\Debug\net5.0\Ejercicio 1-3..genruntimeconfig.cache

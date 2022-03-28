@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Clase 02 - Objetos./1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Clase 02 - Objetos..dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clase 02 - Objetos..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 02 - Objetos./1.0.0": {
+      "type": "project",
+      "path": "../Clase 02 - Objetos/Clase 02 - Objetos..csproj",
+      "msbuildProject": "../Clase 02 - Objetos/Clase 02 - Objetos..csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Clase 02 - Objetos. >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\giova\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\giova\\source\\repos\\Lucchetta.Giovanni\\Ejercicio 2-1\\Ejercicio 2-1..csproj",
+      "projectName": "Ejercicio 2-1.",
+      "projectPath": "C:\\Users\\giova\\source\\repos\\Lucchetta.Giovanni\\Ejercicio 2-1\\Ejercicio 2-1..csproj",
+      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giova\\source\\repos\\Lucchetta.Giovanni\\Ejercicio 2-1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\giova\\source\\repos\\Lucchetta.Giovanni\\Clase 02 - Objetos\\Clase 02 - Objetos..csproj": {
+              "projectPath": "C:\\Users\\giova\\source\\repos\\Lucchetta.Giovanni\\Clase 02 - Objetos\\Clase 02 - Objetos..csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
