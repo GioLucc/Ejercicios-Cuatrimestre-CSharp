@@ -1,0 +1,25 @@
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Ejercicio 3-2..exe
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Ejercicio 3-2..deps.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Ejercicio 3-2..runtimeconfig.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Ejercicio 3-2..runtimeconfig.dev.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Ejercicio 3-2..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\ref\Ejercicio 3-2..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Ejercicio 3-2..pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..AssemblyInfo.cs
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..csproj.CopyComplete
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\ref\Ejercicio 3-2..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..pdb
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\obj\Debug\net5.0\Ejercicio 3-2..genruntimeconfig.cache
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Clase 02 - Objetos..deps.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Clase 02 - Objetos..runtimeconfig.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Clase 02 - Objetos..runtimeconfig.dev.json
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Clase 02 - Objetos..exe
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Clase 02 - Objetos..dll
+C:\Users\giova\source\repos\Lucchetta.Giovanni\Ejercicio 3-2\bin\Debug\net5.0\Clase 02 - Objetos..pdb
